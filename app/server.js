@@ -1,1 +1,1 @@
-console.log('This is my super server');
+console.log('Hello World');
